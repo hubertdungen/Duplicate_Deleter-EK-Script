@@ -1,6 +1,6 @@
-# File Extension Cleanup Script
+# Duplicate_Deleter-EK-Script (DD-EK) 
 
-This repository contains a Windows Batch script that allows users to delete files with certain extensions within a specified directory. The primary use case is to keep files with a particular extension while deleting others that share the same base name.
+This repository contains a Windows Batch script that allows users to delete files with certain extensions within a specified directory. Basically this is a File Extension Cleanup Script. The primary use case is to keep files with a particular extension while deleting others that share the same base name.
 
 ## Usage
 
