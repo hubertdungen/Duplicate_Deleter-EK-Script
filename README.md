@@ -40,3 +40,6 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 ## Contact
 
 For any questions or support, please contact [hubertdungen@gmail.com](mailto:hubertdungen@gmail.com).
+
+
+<p align="center"><a href="https://dlforge.dungenlabs.com"><img src="docs/branding/dlforge-logo.svg" alt="DL Forge" width="120"></a><br><a href="https://dlforge.dungenlabs.com">DL Forge</a></p>
