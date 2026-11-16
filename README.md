@@ -42,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 For any questions or support, please contact [hubertdungen@gmail.com](mailto:hubertdungen@gmail.com).
 
 
-<p align="center"><a href="https://dlforge.dungenlabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/branding/dlforge-logo-negative.svg"><source media="(prefers-color-scheme: light)" srcset="docs/branding/dlforge-logo.svg"><img src="docs/branding/dlforge-logo.svg" alt="DL Forge" width="120"></picture></a></p>
+<p align="center"><a href="https://dlforge.dungenlabs.com"><img src="docs/branding/dlforge-logo.svg#gh-light-mode-only" alt="DL Forge" width="120"><img src="docs/branding/dlforge-logo-negative.svg#gh-dark-mode-only" alt="DL Forge" width="120"></a></p>
